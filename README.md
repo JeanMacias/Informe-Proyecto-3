@@ -50,17 +50,31 @@ Colocamos el potenciómetro y lo alimentamos:
 
 ![20230228_110308](https://user-images.githubusercontent.com/116774235/221914442-008ac737-c738-4e7a-857a-7da4ba3c96cd.jpg)
 
-Colocamos el Amplificador Operacional y conectamos la entrada número 3 al GND del sensor
+Colocamos el Amplificador Operacional y conectamos la entrada número 3 al GND del sensor:
 
 ![20230228_110626](https://user-images.githubusercontent.com/116774235/221914501-2241b629-5715-4860-ba29-1c7ae2550cfc.jpg)
 
-Conectamos el potenciómetro a la entrada número 2 del Amplificador Operacional
+Conectamos el potenciómetro a la entrada número 2 del Amplificador Operacional:
 
 ![20230228_110733](https://user-images.githubusercontent.com/116774235/221914544-3450a385-f6da-43f0-bca0-ed97bca1cb6b.jpg)
 
+Conectamos las dos resistencias a la entrada número 1 y alimentamos el Amplificador Operacional:
 
+![20230228_111112](https://user-images.githubusercontent.com/116774235/221922022-1330f100-c600-45d3-8906-aedd0a11007e.jpg)
+
+Conectamos los diodos led:
+
+![20230228_111154](https://user-images.githubusercontent.com/116774235/221922307-679333bf-08cf-47b5-8537-d5726ad3b147.jpg)
+
+Conectamos la fuente de voltaje y verificamos que el circuito funcione:
+
+![20230228_111254](https://user-images.githubusercontent.com/116774235/221922466-8b8d092b-6314-4328-a95a-d19947a70b16.jpg)
 
 ## **CONCLUSIONES**
+
+*
+
+*
 
 ## **BIBLIOGRAFÍA**
 
