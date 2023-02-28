@@ -42,6 +42,24 @@
 
 ## **PROCEDIMIENTO**
 
+Colocamos el sensor en el protoboard y lo alimentamos:
+
+![20230228_110208](https://user-images.githubusercontent.com/116774235/221914369-4d3f7023-75e3-40c3-97eb-42006844b7f2.jpg)
+
+Colocamos el potenciómetro y lo alimentamos:
+
+![20230228_110308](https://user-images.githubusercontent.com/116774235/221914442-008ac737-c738-4e7a-857a-7da4ba3c96cd.jpg)
+
+Colocamos el Amplificador Operacional y conectamos la entrada número 3 al GND del sensor
+
+![20230228_110626](https://user-images.githubusercontent.com/116774235/221914501-2241b629-5715-4860-ba29-1c7ae2550cfc.jpg)
+
+Conectamos el potenciómetro a la entrada número 2 del Amplificador Operacional
+
+![20230228_110733](https://user-images.githubusercontent.com/116774235/221914544-3450a385-f6da-43f0-bca0-ed97bca1cb6b.jpg)
+
+
+
 ## **CONCLUSIONES**
 
 ## **BIBLIOGRAFÍA**
