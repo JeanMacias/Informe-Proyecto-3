@@ -10,13 +10,19 @@
 
 ### **OBJETIVO GENERAL**
 
+Implementar el circuito de un sensor de temperatura observado en el video propocionado.
+
 ### **OBJETIVOS ESPECÍFICOS**
 
-* 
+* Aplicar los conceptos aprendidos y de los elemetos usados como los integrados y sensores.
 
-*
+* Localizar fallas en circuitos.
 
 ## **MARCO TEÓRICO**
+
+![WhatsApp Image 2023-02-28 at 11 47 41 (1)](https://user-images.githubusercontent.com/116774235/221923311-5be056a0-657e-440d-aa3f-594c50ed3d3d.jpeg)
+
+![WhatsApp Image 2023-02-28 at 11 47 41](https://user-images.githubusercontent.com/116774235/221923324-f4bbc6e2-dd66-43bf-a16e-7ffb5bede771.jpeg)
 
 ### **MATERIALES**
 
@@ -72,9 +78,9 @@ Conectamos la fuente de voltaje y verificamos que el circuito funcione:
 
 ## **CONCLUSIONES**
 
-*
+* En un circuito se pueden encontrar componentes que estan en en serie y en paralelo, junto a lo aprendido amteriormente ya sabemos como pasamos de una simulacion a un circuito real.
 
-*
+* Los componentes de dicho circuitos como el integrado lm358 y el sensor lm35 dan una nocion de ideas que podemos aplicar en diversos aspectos.
 
 ## **BIBLIOGRAFÍA**
 
