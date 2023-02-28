@@ -1,6 +1,6 @@
 # Informe-Proyecto-3
 
-**NOMBRES:** JEAN MACIAS
+**NOMBRES:** JEAN MACIAS, JOAN CALDERÓN
 
 **NRC:** 10063
 
