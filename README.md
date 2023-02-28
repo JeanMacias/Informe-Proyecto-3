@@ -46,6 +46,10 @@ Implementar el circuito de un sensor de temperatura observado en el video propoc
 
 ![image](https://user-images.githubusercontent.com/116774235/221907786-d9e27ad0-91f8-4cf3-97e8-d9be403ec1d5.png)
 
+## **DIAGRAMA ESQUEMÁTICO**
+
+![medidor de temperatura](https://user-images.githubusercontent.com/116774235/221924654-765f48f3-5950-4dd3-a68b-56f14ea83511.PNG)
+
 ## **PROCEDIMIENTO**
 
 Colocamos el sensor en el protoboard y lo alimentamos:
