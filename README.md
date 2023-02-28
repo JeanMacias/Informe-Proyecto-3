@@ -14,7 +14,7 @@ Implementar el circuito de un sensor de temperatura observado en el video propoc
 
 ### **OBJETIVOS ESPECÍFICOS**
 
-* Aplicar los conceptos aprendidos y de los elemetos usados como los integrados y sensores.
+* Aplicar los conceptos aprendidos y de los elementos usados como los integrados y sensores.
 
 * Localizar fallas en circuitos.
 
